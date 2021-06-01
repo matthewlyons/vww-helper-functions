@@ -1,0 +1,19 @@
+{
+  "name": "@matthewlyons/vww-helper-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewlyons/vww-helper-functions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewlyons/vww-helper-functions/issues"
+  },
+  "homepage": "https://github.com/matthewlyons/vww-helper-functions#readme"
+}
